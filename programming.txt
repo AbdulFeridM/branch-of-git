@@ -1,0 +1,9 @@
+Programming refers to a technological process for telling a computer which tasks to perform in order to solve problems. 
+You can think of programming as a collaboration between humans and computers, 
+in which humans create instructions for a computer to follow (code) in a language computers can understand
+
+
+WHAT IS PROGRAMMING?
+Put simply, programming is giving a set of instructions to a computer to execute. If you’ve ever cooked using a recipe before, you can think of yourself as the computer and the recipe’s author as a programmer. The recipe author provides you with a set of instructions that you read and then follow. The more complex the instructions, the more complex the result!
+
+How good are you at giving instdf \afe\ructions? Try and get Codey to draw a sq
